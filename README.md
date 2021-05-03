@@ -2,4 +2,4 @@
 
 # checking `merge` jenkins job
 
-# finally the EC2
+# finally the EC2 - again
